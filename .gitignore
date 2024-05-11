@@ -1,0 +1,4 @@
+plugin/
+.DS_STORE
+thumbs.db
+*.log
